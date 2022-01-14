@@ -1,0 +1,23 @@
+{
+  "name": "threejs-load-models",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html --public-url . --out-dir docs"
+  },
+  "dependencies": {
+    "regenerator-runtime": "^0.13.9",
+    "src": "^1.1.2",
+    "textures": "^1.2.3",
+    "three": "0.103.0",
+    "three-gltf-loader": "1.103.0",
+    "three-orbitcontrols": "2.102.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}

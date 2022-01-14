@@ -1,2 +1,1 @@
-# threejs_lutMap
-Lut map in Three js
+# Lut maps in Three js
