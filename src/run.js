@@ -155,6 +155,7 @@ function init() {
   }
 
   window.addEventListener("resize", onWindowResize);
+  render();
 }
 
 function onWindowResize() {
